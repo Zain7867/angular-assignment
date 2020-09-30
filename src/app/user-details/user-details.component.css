@@ -1,0 +1,14 @@
+
+div {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    border: 1px solid #1976D2;
+    padding: 10px;
+    color: #fff;
+    background-color: #1976D2;
+    text-decoration: none;
+    margin: 20px;
+}
